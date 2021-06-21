@@ -57,3 +57,12 @@ h1
     font-weight: 800;
     color: whitesmoke;
 }
+#footer
+{
+    background-color: rgb(233, 36, 141);
+    margin-top: 26%;
+    color: wheat;
+    height: 1cm;
+    right: 8cm;
+    left: 8cm;
+}
