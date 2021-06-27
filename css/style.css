@@ -11,7 +11,7 @@ h1
 }
 #container
 {
-    margin-top: 15%;
+    margin-top: 3%;
 }
 #header
 {
@@ -60,7 +60,7 @@ h1
 #footer
 {
     background-color: rgb(233, 36, 141);
-    margin-top: 26%;
+    margin-top: 0;
     color: wheat;
     height: 1cm;
     right: 8cm;
