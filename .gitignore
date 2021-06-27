@@ -2,5 +2,5 @@
 /ForkPlatzi
 
 #images
-*png
-*jpg
+*.png
+*.jpg
