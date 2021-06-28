@@ -1,4 +1,4 @@
-Miguel Feles tiene 17 años
-nació en Bogotá
+Miguel Feles
+Le gusta la programación y jugar baloncesto
 
 Este es un texto x para verificar después el checkout de css
