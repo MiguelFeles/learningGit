@@ -20,11 +20,12 @@ interesting things that i have learned
 3. Blogpost.html, in this file mainly I understood how to use branches like a branch header and a branch footer, then merge them into a branch main or master. On the other Hand I learned about workflows and I used some HTML and CSS to shape the blog.
 
 
-
-<a href="https://imgur.com/NAE14tC"><img src="https://i.imgur.com/NAE14tC.png" title="source: imgur.com" width="30%" align="right"/ > 
-</a>
-<p>
-Miguel Feles
-Have a** Good Trip**
+<p href="https://imgur.com/NAE14tC"><img src="https://i.imgur.com/NAE14tC.png" title="source: imgur.com" width="30%" align="right"/ > 
+</p>
+<p >
+<br>
+Miguel Feles <br>
+Have a Good Trip<br>
 🌇
 </p>
+
