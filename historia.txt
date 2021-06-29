@@ -1,9 +1,17 @@
 Miguel Feles
 Le gusta la programación y jugar baloncesto
 
+<<<<<<< HEAD
 Experiment1 to use Git rebase
 
 Experiment2 to use Git rebase
+=======
+
+
+
+
+
+>>>>>>> changing order txt file
 
 Master 1
 
