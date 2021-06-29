@@ -7,6 +7,5 @@ Experiment2 to use Git rebase
 
 Master 1
 
-Master2
 
 Este es un texto x para verificar después el checkout de css
