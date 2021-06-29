@@ -1,9 +1,9 @@
 Miguel Feles
 Le gusta la programación y jugar baloncesto
 
-Experiment1
+Experiment1 to use Git rebase
 
-Experiment2
+Experiment2 to use Git rebase
 
 Master 1
 
